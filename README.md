@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteelZoo
-- 👀 I’m interested in Android
+- 👀 I’m interested in Android Native App
 - 🌱 I’m currently learning Algorithm, Kotlin, Java
 
 
