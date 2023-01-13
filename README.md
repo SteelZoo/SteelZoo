@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteelZoo
 - 👀 I’m interested in Android Native App
-- 🌱 I’m currently learning Android, Kotlin, Java
+- 🌱 I’m currently learning Android, Kotlin
 
 <!---
 SteelZoo/SteelZoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
